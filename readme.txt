@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Personal Chat room
+Contributors: Lordlinus
 Tags: chat with online members, online chat, chat, personal chat room, chat room
 Requires at least: 2.0.2
 Stable tag: 1.0
