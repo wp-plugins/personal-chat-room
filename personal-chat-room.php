@@ -3,7 +3,7 @@
 	Plugin Uri: http://businessadwings.com
 	Description: This plugin gives you the facility to put a button to chat your users with each other [LORDLINUS_PERSONAL_CHAT]
 	Version: 1.0
-	Author: Lord Linus
+	Author: lordlinus
 	Author URI: http://businessadwings.com/contact-us
 	Licence: GPVl
 */
