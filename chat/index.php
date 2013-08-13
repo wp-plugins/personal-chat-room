@@ -11,10 +11,10 @@ require_once('classes/CMySQL.php'); // including service class to work with data
 require_once('classes/CLogin.php'); // including service class to work with login processing
 
 $sErrors = '';
-if(isset($_GET['value']))
+if(isset($_POST['value']))
 {
 		
-		$val_data = $_GET['value'];
+		$val_data = $_POST['value'];
 		$val_data_unser = unserialize($val_data);
 		$_SESSION['host'] = $val_data_unser[1];
 		$_SESSION['user'] = $val_data_unser[2];
